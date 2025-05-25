@@ -40,44 +40,12 @@
     "bitrate": 128
   },
   {
-    "name": "DR P1 (AAC)",
-    "stream_url": "https://drliveradio1.akamaized.net/hls/live/2097651/p1/masterab.m3u8",
-    "favicon_url": "https://www.dr.dk/lyd/_next/static/media/p1.29c35f9c.svg",
-    "location": "Denmark",
-    "codec": "AAC",
-    "bitrate": 324
-  },
-  {
-    "name": "DR P1 HLS 96",
-    "stream_url": "https://drliveradio1.akamaized.net/hls/live/2097651/p1/playlist-96000.m3u8",
-    "favicon_url": "https://www.dr.dk/favicon.ico",
-    "location": "Denmark",
-    "codec": "UNKNOWN",
-    "bitrate": 0
-  },
-  {
     "name": "DR P2",
     "stream_url": "http://live-icy.gss.dr.dk/A/A04H.mp3",
     "favicon_url": "https://www.dr.dk/nyhedsbrev/images/drlyd.png",
     "location": "Copenhagen",
     "codec": "MP3",
     "bitrate": 128
-  },
-  {
-    "name": "DR P2 (AAC)",
-    "stream_url": "https://drliveradio1.akamaized.net/hls/live/2097651/p2/masterab.m3u8",
-    "favicon_url": "https://www.dr.dk/lyd/_next/static/media/p2.041e766f.svg",
-    "location": "Denmark",
-    "codec": "AAC",
-    "bitrate": 324
-  },
-  {
-    "name": "DR P2 HLS 96",
-    "stream_url": "https://drliveradio1.akamaized.net/hls/live/2097651/p2/playlist-96000.m3u8",
-    "favicon_url": "https://www.phonostar.de/images/auto_created/DR_P2_4184x184.png",
-    "location": "Denmark",
-    "codec": "UNKNOWN",
-    "bitrate": 0
   },
   {
     "name": "DR P3",
@@ -88,36 +56,12 @@
     "bitrate": 128
   },
   {
-    "name": "DR P3 (AAC)",
-    "stream_url": "https://drliveradio1.akamaized.net/hls/live/2097651/p3/masterab.m3u8",
-    "favicon_url": "https://www.dr.dk/lyd/_next/static/media/p3.28743ad0.svg",
-    "location": "Denmark",
-    "codec": "AAC",
-    "bitrate": 324
-  },
-  {
-    "name": "DR P3 HLS 96",
-    "stream_url": "https://drliveradio1.akamaized.net/hls/live/2097651/p3/playlist-96000.m3u8",
-    "favicon_url": "https://www.radio.de/images/broadcasts/ea/89/10773/2/c300.png",
-    "location": "Denmark",
-    "codec": "UNKNOWN",
-    "bitrate": 0
-  },
-  {
     "name": "DR P4 Bornholm",
     "stream_url": "https://live-icy.dr.dk/A/A30H.mp3",
     "favicon_url": "https://www.dr.dk/favicon.ico",
     "location": "København",
     "codec": "MP3",
     "bitrate": 128
-  },
-  {
-    "name": "DR P4 Bornholm (AAC)",
-    "stream_url": "https://drliveradio1.akamaized.net/hls/live/2097651/p4bornholm/masterab.m3u8",
-    "favicon_url": "https://www.dr.dk/lyd/_next/static/media/p4.a9a465ed.svg",
-    "location": "Denmark",
-    "codec": "AAC",
-    "bitrate": 324
   },
   {
     "name": "DR P4 Esbjerg",
