@@ -8,7 +8,7 @@
   {
     "name": "DR P1",
     "stream_url": "http://live-icy.gslb01.dr.dk/A/A03H.mp3",
-    "favicon_url": "https://asset.dr.dk/imagescaler/?protocol=https&server=www.dr.dk&file=%2Fimages%2Fother%2F2020%2F02%2F10%2Fp1_logo_primaert.jpg",
+    "favicon_url": "https://static.mytuner.mobi/media/tvos_radios/WuxQegJDBx.png",
     "location": "Denmark",
     "codec": "MP3",
     "bitrate": 128
@@ -16,7 +16,7 @@
   {
     "name": "DR P2",
     "stream_url": "http://live-icy.gss.dr.dk/A/A04H.mp3",
-    "favicon_url": "https://www.dr.dk/nyhedsbrev/images/drlyd.png",
+    "favicon_url": "https://static.mytuner.mobi/media/radios-150px/G7wZspc74P.png",
     "location": "Copenhagen",
     "codec": "MP3",
     "bitrate": 128
@@ -24,7 +24,7 @@
   {
     "name": "DR P3",
     "stream_url": "http://live-icy.gss.dr.dk:8000/A/A05H.mp3",
-    "favicon_url": "https://www.dr.dk/nyhedsbrev/images/drlyd.png",
+    "favicon_url": "https://static.mytuner.mobi/media/radios-150px/xZkz47Tm5w.png",
     "location": "Copenhagen",
     "codec": "MP3",
     "bitrate": 128
@@ -32,7 +32,7 @@
   {
     "name": "DR P4 Bornholm",
     "stream_url": "https://live-icy.dr.dk/A/A30H.mp3",
-    "favicon_url": "https://www.dr.dk/favicon.ico",
+    "favicon_url": "https://static.mytuner.mobi/media/radios-150px/LYzgJJrdtp.png",
     "location": "København",
     "codec": "MP3",
     "bitrate": 128
@@ -40,7 +40,7 @@
   {
     "name": "DR P4 Esbjerg",
     "stream_url": "http://live-icy.gslb01.dr.dk/A/A15H.mp3",
-    "favicon_url": "http://www.dr.dk/favicon.ico",
+    "favicon_url": "https://static.mytuner.mobi/media/radios-150px/FbfqqCUZWE.png",
     "location": "Denmark",
     "codec": "MP3",
     "bitrate": 128
@@ -48,7 +48,7 @@
   {
     "name": "DR P4 Fyn",
     "stream_url": "http://live-icy.gslb01.dr.dk/A/A07H.mp3",
-    "favicon_url": "http://www.dr.dk/favicon.ico",
+    "favicon_url": "https://static.mytuner.mobi/media/radios-150px/YZVkKETukS.png",
     "location": "Denmark",
     "codec": "MP3",
     "bitrate": 128
@@ -56,7 +56,7 @@
   {
     "name": "DR P4 København",
     "stream_url": "http://live-icy.gss.dr.dk/A/A08H.mp3",
-    "favicon_url": "https://www.dr.dk/nyhedsbrev/images/drlyd.png",
+    "favicon_url": "https://static.mytuner.mobi/media/radios-150px/WhsVPWQfgR.png",
     "location": "Denmark",
     "codec": "MP3",
     "bitrate": 128
@@ -64,7 +64,7 @@
   {
     "name": "DR P4 Midt & Vest",
     "stream_url": "http://live-icy.gslb01.dr.dk/A/A09H.mp3",
-    "favicon_url": "http://www.dr.dk/favicon.ico",
+    "favicon_url": "https://static.mytuner.mobi/media/radios-150px/bXGRm6FUTC.png",
     "location": "Denmark",
     "codec": "MP3",
     "bitrate": 128
@@ -72,7 +72,7 @@
   {
     "name": "DR P4 Nordjylland",
     "stream_url": "https://drliveradio1.akamaized.net/hls/live/2097651/p4nordjylland/masterab.m3u8",
-    "favicon_url": "https://www.dr.dk/favicon.ico",
+    "favicon_url": "https://static.mytuner.mobi/media/radios-150px/4VwxFUGVwr.png",
     "location": "Denmark",
     "codec": "AAC",
     "bitrate": 324
@@ -80,7 +80,7 @@
   {
     "name": "DR P4 Østjylland",
     "stream_url": "http://live-icy.gss.dr.dk:8000/A/A14H.mp3",
-    "favicon_url": "https://www.dr.dk/nyhedsbrev/images/drlyd.png",
+    "favicon_url": "https://static.mytuner.mobi/media/radios-150px/rQwtNHtwnK.png",
     "location": "Denmark",
     "codec": "MP3",
     "bitrate": 128
@@ -88,7 +88,7 @@
   {
     "name": "DR P4 Sjælland",
     "stream_url": "http://live-icy.gslb01.dr.dk/A/A11H.mp3",
-    "favicon_url": "http://www.dr.dk/favicon.ico",
+    "favicon_url": "https://static.mytuner.mobi/media/radios-150px/rQwtNHtwnK.png",
     "location": "Denmark",
     "codec": "MP3",
     "bitrate": 128
@@ -96,7 +96,7 @@
   {
     "name": "DR P4 Syd",
     "stream_url": "http://live-icy.gss.dr.dk/A/A12H.mp3",
-    "favicon_url": "https://www.dr.dk/nyhedsbrev/images/drlyd.png",
+    "favicon_url": "https://static.mytuner.mobi/media/radios-150px/eNF8BkVnxt.png",
     "location": "Denmark",
     "codec": "MP3",
     "bitrate": 128
@@ -104,23 +104,15 @@
   {
     "name": "DR P4 Trekanten",
     "stream_url": "http://live-icy.gss.dr.dk:8000/A/A13H.mp3",
-    "favicon_url": "https://www.dr.dk/favicon.ico",
+    "favicon_url": "https://static.mytuner.mobi/media/radios-150px/3bUqcdrGef.png",
     "location": "Denmark",
     "codec": "MP3",
     "bitrate": 128
   },
   {
-    "name": "DR P5 Bornholm",
-    "stream_url": "https://live-icy.dr.dk/A/A30H.mp3",
-    "favicon_url": "https://www.dr.dk/nyhedsbrev/images/drlyd.png",
-    "location": "København",
-    "codec": "MP3",
-    "bitrate": 128
-  },
-  {
-    "name": "DR P5 Esbjerg",
+    "name": "DR P5",
     "stream_url": "https://live-icy.dr.dk/A/A26H.mp3",
-    "favicon_url": "https://www.dr.dk/nyhedsbrev/images/drlyd.png",
+    "favicon_url": "https://static.mytuner.mobi/media/radios-150px/EMWcGuNLXk.png",
     "location": "København",
     "codec": "MP3",
     "bitrate": 128
@@ -128,63 +120,23 @@
   {
     "name": "DR P5 Fyn",
     "stream_url": "https://live-icy.dr.dk/A/A02H.mp3",
-    "favicon_url": "https://www.dr.dk/favicon.ico",
+    "favicon_url": "https://static.mytuner.mobi/media/radios-150px/EMWcGuNLXk.png",
     "location": "København",
-    "codec": "MP3",
-    "bitrate": 128
-  },
-  {
-    "name": "DR P5 Midt/Vest",
-    "stream_url": "https://live-icy.dr.dk/A/A17H.mp3",
-    "favicon_url": "https://www.dr.dk/favicon.ico",
-    "location": "København",
-    "codec": "MP3",
-    "bitrate": 128
-  },
-  {
-    "name": "DR P5 Østjylland",
-    "stream_url": "https://live-icy.dr.dk/A/A24H.mp3",
-    "favicon_url": "https://www.dr.dk/nyhedsbrev/images/drlyd.png",
-    "location": "København",
-    "codec": "MP3",
-    "bitrate": 128
-  },
-  {
-    "name": "DR P5 Syd",
-    "stream_url": "https://DRliveradio1.akamaized.net/hls/live/2097651/p5syd/masterab.m3u8",
-    "favicon_url": "https://www.dr.dk/favicon.ico",
-    "location": "København",
-    "codec": "AAC",
-    "bitrate": 324
-  },
-  {
-    "name": "DR P5 Trekanten",
-    "stream_url": "http://live-icy.gslb01.dr.dk/A/A23H.mp3",
-    "favicon_url": "http://www.dr.dk/favicon.ico",
-    "location": "Denmark",
     "codec": "MP3",
     "bitrate": 128
   },
   {
     "name": "DR P6 Beat",
     "stream_url": "http://live-icy.gss.dr.dk/A/A29H.mp3",
-    "favicon_url": "https://www.dr.dk/nyhedsbrev/images/drlyd.png",
+    "favicon_url": "https://static.mytuner.mobi/media/radios-150px/KrRGdKAQ6Y.png",
     "location": "Denmark",
     "codec": "MP3",
     "bitrate": 128
   },
   {
-    "name": "DR P6 Jazz",
-    "stream_url": "https://DRliveradio1.akamaized.net/hls/live/2097651/p8jazz/playlist-320000.m3u8",
-    "favicon_url": "",
-    "location": "Kopenhagen, AAC 320 Kbits",
-    "codec": "UNKNOWN",
-    "bitrate": 0
-  },
-  {
     "name": "DR P8 Jazz",
     "stream_url": "http://live-icy.gss.dr.dk/A/A22H.mp3",
-    "favicon_url": "https://dr.dk/favicon.ico",
+    "favicon_url": "https://static.mytuner.mobi/media/radios-150px/U3gmYzChRA.png",
     "location": "Denmark",
     "codec": "MP3",
     "bitrate": 128
