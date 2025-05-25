@@ -1,0 +1,54 @@
+{
+    "name": "DR P4 Esbjerg",
+    "stream_url": "http://live-icy.gslb01.dr.dk/A/A15H.mp3",
+    "favicon_url": "https://static.mytuner.mobi/media/radios-150px/FbfqqCUZWE.png",
+    "location": "Esbjerg"
+  },
+  {
+    "name": "DR P4 Fyn",
+    "stream_url": "http://live-icy.gslb01.dr.dk/A/A07H.mp3",
+    "favicon_url": "https://static.mytuner.mobi/media/radios-150px/YZVkKETukS.png",
+    "location": "Odense"
+  },
+  {
+    "name": "DR P4 København",
+    "stream_url": "http://live-icy.gss.dr.dk/A/A08H.mp3",
+    "favicon_url": "https://static.mytuner.mobi/media/radios-150px/WhsVPWQfgR.png",
+    "location": "København"
+  },
+  {
+    "name": "DR P4 Midt & Vest",
+    "stream_url": "http://live-icy.gslb01.dr.dk/A/A09H.mp3",
+    "favicon_url": "https://static.mytuner.mobi/media/radios-150px/bXGRm6FUTC.png",
+    "location": "Holstebro"
+  },
+  {
+    "name": "DR P4 Nordjylland",
+    "stream_url": "https://drliveradio1.akamaized.net/hls/live/2097651/p4nordjylland/masterab.m3u8",
+    "favicon_url": "https://static.mytuner.mobi/media/radios-150px/4VwxFUGVwr.png",
+    "location": "Aalborg"
+  },
+  {
+    "name": "DR P4 Østjylland",
+    "stream_url": "http://live-icy.gss.dr.dk:8000/A/A14H.mp3",
+    "favicon_url": "https://static.mytuner.mobi/media/radios-150px/rQwtNHtwnK.png",
+    "location": "Aarhus"
+  },
+  {
+    "name": "DR P4 Sjælland",
+    "stream_url": "http://live-icy.gslb01.dr.dk/A/A11H.mp3",
+    "favicon_url": "https://static.mytuner.mobi/media/radios-150px/rQwtNHtwnK.png",
+    "location": "Næstved"
+  },
+  {
+    "name": "DR P4 Syd",
+    "stream_url": "http://live-icy.gss.dr.dk/A/A12H.mp3",
+    "favicon_url": "https://static.mytuner.mobi/media/radios-150px/eNF8BkVnxt.png",
+    "location": "Aabenraa"
+  },
+  {
+    "name": "DR P4 Trekanten",
+    "stream_url": "http://live-icy.gss.dr.dk:8000/A/A13H.mp3",
+    "favicon_url": "https://static.mytuner.mobi/media/radios-150px/3bUqcdrGef.png",
+    "location": "Kolding"
+  },
