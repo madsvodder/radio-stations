@@ -6,6 +6,24 @@
     "location": "Tønder"
   },
   {
+    "name": "Skala FM",
+    "stream_url": "http://netradio.skala.fm/ska8d",
+    "favicon_url": "https://static.mytuner.mobi/media/tvos_radios/2vYTL8Ug99.png",
+    "location": "National"
+  },
+  {
+    "name": "Retro Radio",
+    "stream_url": "https://stream128.retro-radio.dk/retro",
+    "favicon_url": "https://static.mytuner.mobi/media/tvos_radios/yRVZQUxc22.jpg",
+    "location": "National"
+  },
+  {
+    "name": "Classic FM",
+    "stream_url": "https://netradio.classicfm.dk/cla8d",
+    "favicon_url": "https://static.mytuner.mobi/media/radios-150px/wffux9ksvhcm.jpg",
+    "location": "National"
+  },
+  {
     "name": "DR P1",
     "stream_url": "http://live-icy.gslb01.dr.dk/A/A03H.mp3",
     "favicon_url": "https://static.mytuner.mobi/media/tvos_radios/WuxQegJDBx.png",
