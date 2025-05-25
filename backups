@@ -52,3 +52,9 @@
     "favicon_url": "https://static.mytuner.mobi/media/radios-150px/3bUqcdrGef.png",
     "location": "Kolding"
   },
+  {
+    "name": "DR P5 Fyn",
+    "stream_url": "https://live-icy.dr.dk/A/A02H.mp3",
+    "favicon_url": "https://static.mytuner.mobi/media/radios-150px/EMWcGuNLXk.png",
+    "location": "Odense"
+  },
