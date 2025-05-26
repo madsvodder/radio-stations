@@ -43,7 +43,7 @@
   },
   {
     "name": "DR P4 Syd",
-    "stream_url": "http://live-icy.dr.dk/A/A12H.mp3",
+    "stream_url": "http://live-icy.gss.dr.dk:8000/A/A12H.mp3.m3u",
     "favicon_url": "https://static.mytuner.mobi/media/radios-150px/eNF8BkVnxt.png",
     "location": "Aabenraa"
   },
