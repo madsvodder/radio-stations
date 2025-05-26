@@ -70,5 +70,11 @@
     "stream_url": "https://drliveradio.akamaized.net/hls/live/2022411-b/p5kobenhavn/playlist-320000.m3u8",
     "favicon_url": "https://static.mytuner.mobi/media/radios-150px/EMWcGuNLXk.png",
     "location": "National"
+  },
+  {
+    "name": "DR P6 Beat",
+    "stream_url": "http://live-icy.gss.dr.dk/A/A29H.mp3",
+    "favicon_url": "https://static.mytuner.mobi/media/tvos_radios/KrRGdKAQ6Y.png",
+    "location": "National"
   }
 ]
