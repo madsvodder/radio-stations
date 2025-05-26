@@ -54,106 +54,22 @@
     "location": "National"
   },
   {
-    "name": "Radio 100",
-    "stream_url": "https://live-bauerdk.sharp-stream.com/radio100_dk_mp3",
-    "favicon_url": "https://static.mytuner.mobi/media/tvos_radios/Radio100.png",
-    "location": "National"
-  },
-  {
     "name": "Radio Soft",
     "stream_url": "https://live-bauerdk.sharp-stream.com/soft_dk_mp3",
-    "favicon_url": "https://static.mytuner.mobi/media/tvos_radios/RadioSoft.png",
+    "favicon_url": "https://static.mytuner.mobi/media/tvos_radios/SNLyCyh2UK.jpg",
     "location": "National"
   },
   {
     "name": "MyRock",
     "stream_url": "https://live-bauerdk.sharp-stream.com/myrock_dk_mp3",
-    "favicon_url": "https://static.mytuner.mobi/media/tvos_radios/MyRock.png",
+    "favicon_url": "https://static.mytuner.mobi/media/tvos_radios/439/myrock.8f9d957e.jpg",
     "location": "National"
   },
   {
     "name": "Pop FM",
     "stream_url": "https://live-bauerdk.sharp-stream.com/popfm_dk_mp3",
-    "favicon_url": "https://static.mytuner.mobi/media/tvos_radios/PopFM.png",
+    "favicon_url": "https://static.mytuner.mobi/media/tvos_radios/086/pop-fm.016d7c00.png",
     "location": "National"
-  },
-  {
-    "name": "Radio Klassisk",
-    "stream_url": "https://live-bauerdk.sharp-stream.com/klassisk_dk_mp3",
-    "favicon_url": "https://static.mytuner.mobi/media/tvos_radios/RadioKlassisk.png",
-    "location": "National"
-  },
-  {
-    "name": "Radio Diablo",
-    "stream_url": "https://stream.radiodiablo.dk/diablo128",
-    "favicon_url": "https://static.mytuner.mobi/media/tvos_radios/RadioDiablo.png",
-    "location": "Svendborg"
-  },
-  {
-    "name": "Radio Skive",
-    "stream_url": "https://stream.radioskive.dk/skive128",
-    "favicon_url": "https://static.mytuner.mobi/media/tvos_radios/RadioSkive.png",
-    "location": "Skive"
-  },
-  {
-    "name": "Radio Viborg",
-    "stream_url": "https://stream.radioviborg.dk/viborg128",
-    "favicon_url": "https://static.mytuner.mobi/media/tvos_radios/RadioViborg.png",
-    "location": "Viborg"
-  },
-  {
-    "name": "Radio VLR",
-    "stream_url": "https://stream.radiovlr.dk/vlr128",
-    "favicon_url": "https://static.mytuner.mobi/media/tvos_radios/RadioVLR.png",
-    "location": "Vejle"
-  },
-  {
-    "name": "Radio Alfa Silkeborg",
-    "stream_url": "https://stream.radioalfa.dk/silkeborg128",
-    "favicon_url": "https://static.mytuner.mobi/media/tvos_radios/RadioAlfaSilkeborg.png",
-    "location": "Silkeborg"
-  },
-  {
-    "name": "Radio SLR",
-    "stream_url": "https://stream.radioslr.dk/slr128",
-    "favicon_url": "https://static.mytuner.mobi/media/tvos_radios/RadioSLR.png",
-    "location": "Næstved"
-  },
-  {
-    "name": "Radio Køge",
-    "stream_url": "https://stream.radiokooge.dk/koege128",
-    "favicon_url": "https://static.mytuner.mobi/media/tvos_radios/RadioKoege.png",
-    "location": "Køge"
-  },
-  {
-    "name": "Radio Nordjyske",
-    "stream_url": "https://stream.radionordjyske.dk/nordjyske128",
-    "favicon_url": "https://static.mytuner.mobi/media/tvos_radios/RadioNordjyske.png",
-    "location": "Aalborg"
-  },
-  {
-    "name": "Radio Limfjord",
-    "stream_url": "https://stream.radiolimfjord.dk/limfjord128",
-    "favicon_url": "https://static.mytuner.mobi/media/tvos_radios/RadioLimfjord.png",
-    "location": "Nykøbing Mors"
-  },
-  {
-    "name": "Radio Als",
-    "stream_url": "https://stream.radioals.dk/als128",
-    "favicon_url": "https://static.mytuner.mobi/media/tvos_radios/RadioAls.png",
-    "location": "Sønderborg"
-  },
-  {
-    "name": "Radio Go FM",
-    "stream_url": "https://stream.radiogofm.dk/gofm128",
-    "favicon_url": "https://static.mytuner.mobi/media/tvos_radios/RadioGoFM.png",
-    "location": "Aarhus"
-  },
-  {
-    "name": "Radio Victoria",
-    "stream_url": "https://stream.radiovictoria.dk/victoria128",
-    "favicon_url": "https://static.mytuner.mobi/media/tvos_radios/RadioVictoria.png",
-    "location": "Holstebro"
   },
   {
     "name": "DR P1",
