@@ -14,25 +14,25 @@
   {
     "name": "Skala FM",
     "stream_url": "https://netradio.skala.fm/ska8d",
-    "favicon_url": "https://static.mytuner.mobi/media/tvos_radios/2vYTL8Ug99.png",
+    "favicon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/6c/39/19/6c391921-56ac-adae-ceb0-3f7211ed4322/AppIcon-0-0-1x_U007epad-0-0-85-220.png/460x0w.webp",
     "location": "National"
   },
   {
     "name": "Retro Radio",
     "stream_url": "https://stream128.retro-radio.dk/retro",
-    "favicon_url": "https://static.mytuner.mobi/media/tvos_radios/yRVZQUxc22.jpg",
+    "favicon_url": "https://retro-radio.dk/wp-content/uploads/2023/11/Retro_600.png",
     "location": "National"
   },
   {
     "name": "Classic FM",
     "stream_url": "https://netradio.classicfm.dk/cla8d",
-    "favicon_url": "https://static.mytuner.mobi/media/radios-150px/wffux9ksvhcm.jpg",
+    "favicon_url": "https://tinyurl.com/classicfmfav",
     "location": "National"
   },
   {
     "name": "NOVA",
     "stream_url": "https://live-bauerdk.sharp-stream.com/nova_dk_mp3",
-    "favicon_url": "https://static2.mytuner.mobi/media/tvos_radios/4SkxQh4mwS.jpg",
+    "favicon_url": "https://media.bauerradio.com/image/upload/q_auto/v1627029550/shows/qrj6r521tkxxcpkuj5sx.jpg",
     "location": "National"
   },
   {
@@ -50,13 +50,13 @@
   {
     "name": "The Voice",
     "stream_url": "https://live-bauerdk.sharp-stream.com/thevoice_dk_mp3",
-    "favicon_url": "https://static.mytuner.mobi/media/tvos_radios/TheVoice.png",
+    "favicon_url": "https://static.mytuner.mobi/media/tvos_radios/ru9rkery59.png",
     "location": "National"
   },
   {
     "name": "Radio Soft",
-    "stream_url": "https://live-bauerdk.sharp-stream.com/soft_dk_mp3",
-    "favicon_url": "https://static.mytuner.mobi/media/tvos_radios/SNLyCyh2UK.jpg",
+    "stream_url": "https://live-bauerdk.sharp-stream.com/radiosoft_dk_mp3",
+    "favicon_url": "https://media.bauerradio.com/image/upload/q_auto/v1629195407/shows/pwxppygswl3ywwwi9w7t.jpg",
     "location": "National"
   },
   {
@@ -68,7 +68,7 @@
   {
     "name": "Pop FM",
     "stream_url": "https://live-bauerdk.sharp-stream.com/popfm_dk_mp3",
-    "favicon_url": "https://static.mytuner.mobi/media/tvos_radios/086/pop-fm.016d7c00.png",
+    "favicon_url": "https://media.bauerradio.com/image/upload/q_auto/v1639121583/shows/ojpz3slzt1o8wtepdrcd.jpg",
     "location": "National"
   },
   {
