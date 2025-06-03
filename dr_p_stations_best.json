@@ -73,25 +73,25 @@
   },
   {
     "name": "DR P1",
-    "stream_url": "https://drliveradio.akamaized.net/hls/live/2022411-b/p1/playlist-320000.m3u8",
+    "stream_url": "http://live-icy.gss.dr.dk:8000/A/A03L.mp3",
     "favicon_url": "https://static.mytuner.mobi/media/tvos_radios/WuxQegJDBx.png",
     "location": "National"
   },
   {
     "name": "DR P3",
-    "stream_url": "https://drliveradio.akamaized.net/hls/live/2022411-b/p3/playlist-320000.m3u8",
+    "stream_url": "http://live-icy.gss.dr.dk:8000/A/A05L.mp3",
     "favicon_url": "https://static.mytuner.mobi/media/radios-150px/xZkz47Tm5w.png",
     "location": "National"
   },
   {
     "name": "DR P4 Syd",
-    "stream_url": "https://drliveradio1.akamaized.net/hls/live/2097651-b/p4syd/playlist-96000.m3u8",
+    "stream_url": "http://live-icy.gss.dr.dk:8000/A/A12L.mp3",
     "favicon_url": "https://static.mytuner.mobi/media/radios-150px/eNF8BkVnxt.png",
     "location": "Aabenraa"
   },
   {
     "name": "DR P5",
-    "stream_url": "https://drliveradio.akamaized.net/hls/live/2022411-b/p5kobenhavn/playlist-320000.m3u8",
+    "stream_url": "http://live-icy.gss.dr.dk:8000/A/A25L.mp3",
     "favicon_url": "https://static.mytuner.mobi/media/radios-150px/EMWcGuNLXk.png",
     "location": "National"
   }
