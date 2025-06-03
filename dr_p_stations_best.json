@@ -94,5 +94,11 @@
     "stream_url": "http://live-icy.gss.dr.dk:8000/A/A25L.mp3",
     "favicon_url": "https://static.mytuner.mobi/media/radios-150px/EMWcGuNLXk.png",
     "location": "National"
+  },
+  {
+    "name": "DR P6 Beat",
+    "stream_url": "https://live-icy.gss.dr.dk/A/A29L.mp3",
+    "favicon_url": "https://upload.wikimedia.org/wikipedia/commons/9/91/DR_P6_Beat_2017_logo.png",
+    "location": "National"
   }
 ]
