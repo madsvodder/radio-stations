@@ -30,6 +30,12 @@
     "location": "National"
   },
   {
+    "name": "Classic Rock",
+    "stream_url": "https://netradio.classicfm.dk/classicrock",
+    "favicon_url": "https://static.mytuner.mobi/media/tvos_radios/295/classicrock-kobenhavn.89dde4d9.png",
+    "location": "National"
+  },
+  {
     "name": "NOVA",
     "stream_url": "https://live-bauerdk.sharp-stream.com/nova_dk_mp3",
     "favicon_url": "https://media.bauerradio.com/image/upload/q_auto/v1627029550/shows/qrj6r521tkxxcpkuj5sx.jpg",
@@ -39,6 +45,18 @@
     "name": "80's Hits",
     "stream_url": "https://live-bauerdk.sharp-stream.com/DK_HQ_RP04.aac",
     "favicon_url": "https://static2.mytuner.mobi/media/tvos_radios/eufc2ztvbcdb.jpg",
+    "location": "National"
+  },
+  {
+    "name": "Radio Vinyl",
+    "stream_url": "https://live-bauerdk.sharp-stream.com/Vinyl_dk.mp3",
+    "favicon_url": "https://radioplay.dk/radiovinyl",
+    "location": "National"
+  },
+  {
+    "name": "Always Elvis Radio",
+    "stream_url": "https://radioserver.dk/alwayselvisradio",
+    "favicon_url": "https://static.mytuner.mobi/media/tvos_radios/179/always-elvis-presley-radio.f5d68e23.png",
     "location": "National"
   },
   {
@@ -72,6 +90,12 @@
     "location": "National"
   },
   {
+    "name": "Pop FM 80'er",
+    "stream_url": "https://live-bauerdk.sharp-stream.com/popfm80.mp3",
+    "favicon_url": "https://media.bauerradio.com/image/upload/c_crop,g_custom/v1604928921/brand_manager/stations/qot19flmfgjneeggkeej.png",
+    "location": "National"
+  },
+  {
     "name": "DR P1",
     "stream_url": "http://live-icy.gss.dr.dk:8000/A/A03L.mp3",
     "favicon_url": "https://static.mytuner.mobi/media/tvos_radios/WuxQegJDBx.png",
@@ -93,12 +117,6 @@
     "name": "DR P5",
     "stream_url": "http://live-icy.gss.dr.dk:8000/A/A25L.mp3",
     "favicon_url": "https://static.mytuner.mobi/media/radios-150px/EMWcGuNLXk.png",
-    "location": "National"
-  },
-  {
-    "name": "DR P6 Beat",
-    "stream_url": "https://live-icy.gss.dr.dk/A/A29L.mp3",
-    "favicon_url": "https://upload.wikimedia.org/wikipedia/commons/9/91/DR_P6_Beat_2017_logo.png",
     "location": "National"
   }
 ]
